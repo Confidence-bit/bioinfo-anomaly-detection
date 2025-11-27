@@ -1,2 +1,2 @@
 # bioinfo-anomaly-detection
-Bioinformatics Data Visualization &amp; Anomaly Detection Project
+Bioinformatics Data Visualization and Anomaly Detection Project

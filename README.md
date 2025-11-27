@@ -260,7 +260,7 @@ This project shows how combining bioinformatics + cybersecurity strengthens the 
 **How to Run This Project**
 
 1. Clone the repository
-git clone https://github.com/yourusername/bioinfo-anomaly-detection.git
+git clone https://github.com/Confidence-bit/bioinfo-anomaly-detection.git
 
 2. Install required libraries
 pip install pandas numpy seaborn matplotlib scikit-learn plotly
